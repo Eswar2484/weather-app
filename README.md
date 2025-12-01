@@ -34,6 +34,8 @@ A beginner‑friendly weather application built using **HTML, CSS, and JavaScrip
 weather-app/
 │
 ├── index.html
+├── style.css
+├── script.js
 └── README.md
 ```
 
